@@ -18,25 +18,37 @@ Screenhot of my result
 
 ## CD Workflow
 
-![github](images/.png)
+![github](images/1.png)
 
-![github](images/.png)
+![github](images/2.png)
 
-![github](images/.png)
+![github](images/3.png)
 
-![github](images/.png)
+![github](images/4.png)
 
-![github](images/.png)
+![github](images/5.png)
 
-![github](images/.png)
+![github](images/6.png)
 
-![github](images/.png)
+![github](images/7.png)
 
-![github](images/.png)
+![github](images/8.png)
 
-![github](images/.png)
+![github](images/9.png)
 
-![github](images/.png)
+![github](images/10.png)
+
+![github](images/11.png)
+
+![github](images/12.png)
+
+![github](images/13.png)
+
+![github](images/14.png)
+
+![github](images/15.png)
+
+![github](images/16.png)
 
 ### References
 * https://github.com/paulnguyen/cmpe172/tree/main/labs/lab10
